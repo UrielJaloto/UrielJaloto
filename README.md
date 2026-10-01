@@ -20,11 +20,10 @@ Recovers the password of a RAR5 archive you own when you remember part of it. Pa
 **[music-genre-fetcher](https://github.com/UrielJaloto/music-genre-fetcher)** · Go  
 CLI that fills missing genres in a local music library using the Last.fm API, with a concurrent worker pool, retry with backoff and JSON/CSV/TXT export.
 
-## GitHub stats
+## Most used languages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UrielJaloto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
