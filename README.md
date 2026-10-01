@@ -1,35 +1,8 @@
-<!-- ===================== ANIMATION OPTIONS (TEMPORARY) ===================== -->
-<!-- Escolha uma. Depois eu apago as outras e deixo só a escolhida. -->
-
 <div align="center">
 
-**Option 1 — Fira Code (type & erase)**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt1" />
-
-**Option 2 — JetBrains Mono (lines stack / multiline)**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=760&height=140&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt2" />
-
-**Option 3 — Poppins (elegant sans)**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt3" />
-
-**Option 4 — Montserrat (elegant sans)**
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt4" />
-
-**Option 5 — Source Code Pro (letter spacing)**
-
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=900&color=A855F7&letterSpacing=2px&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt5" />
-
-**Option 6 — IBM Plex Mono (type once, no loop)**
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&repeat=false&width=760&height=50&lines=Backend+Developer+%7C+Go+%26+Delphi+%7C+High-volume+REST+APIs" alt="opt6" />
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=900&color=A855F7&letterSpacing=2px&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="Backend Developer · Go & Delphi · SQL" />
 
 </div>
-
-<!-- =================== END ANIMATION OPTIONS (TEMPORARY) =================== -->
 
 ## About
 
@@ -39,8 +12,6 @@
 - Focus on SQL performance, concurrency and clean architecture
 
 ## Tech Stack
-
-<div align="center">
 
 **Languages**
 
@@ -72,8 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-</div>
-
 ## Featured Projects
 
 ### [surgical-rar-recovery](https://github.com/UrielJaloto/surgical-rar-recovery) · Go · work in progress
@@ -89,6 +58,10 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=UrielJaloto&disable_animations=true&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=A855F7" alt="streak" />
 
 </div>
 
