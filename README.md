@@ -11,35 +11,7 @@
 - REST APIs in **Delphi** at work, side projects in **Go**
 - Focus on SQL performance, concurrency and clean architecture
 
-## Tech Stack — OPTIONS (escolha 1)
-
-### Option 1 — Dark uniform (for-the-badge)
-
-<div align="center">
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8) ![Delphi](https://img.shields.io/badge/Delphi-0D1117?style=for-the-badge&logo=delphi&logoColor=EC1C24) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6) 
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000) 
-
-**Messaging**
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=231F20) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600) 
-
-**APIs**
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688) ![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF) ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=85EA2D) 
-
-**Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624) 
-
-</div>
-
-### Option 2 — Brand colors (for-the-badge)
+## Tech Stack
 
 <div align="center">
 
@@ -64,67 +36,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 </div>
-
-### Option 3 — Dark uniform (flat-square, menor)
-
-<div align="center">
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8) ![Delphi](https://img.shields.io/badge/Delphi-0D1117?style=flat-square&logo=delphi&logoColor=EC1C24) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) 
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=316192) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1) ![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=flat-square&logo=oracle&logoColor=F80000) 
-
-**Messaging**
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=231F20) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=flat-square&logo=rabbitmq&logoColor=FF6600) 
-
-**APIs**
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688) ![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF) ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=flat-square&logo=swagger&logoColor=85EA2D) 
-
-**Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624) 
-
-</div>
-
-### Option 4 — Brand colors (flat-square, menor)
-
-<div align="center">
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi-EC1C24?style=flat-square&logo=delphi&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
-
-**Messaging**
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) 
-
-**APIs**
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) 
-
-**Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-
-</div>
-
-### Option 5 — skillicons (tiles modernos; faltam Delphi, Oracle, Kafka, RabbitMQ, Swagger)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,js,ts,postgres,mysql,docker,git,linux&theme=dark" alt="skillicons" />
-
-</div>
-
 
 ## Featured Projects
 
