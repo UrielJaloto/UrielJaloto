@@ -1,13 +1,6 @@
 <div align="center">
 
-<h1>Uriel&nbsp;Jaloto</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=600&color=A855F7&center=true&vCenter=true&width=640&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="typing" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=UrielJaloto&label=Profile%20views&color=8a2be2&style=flat" alt="views" />
-<img src="https://img.shields.io/github/followers/UrielJaloto?label=Followers&style=flat&color=8a2be2" alt="followers" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=760&height=55&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="Backend Developer · Go & Delphi · SQL" />
 
 </div>
 
@@ -20,26 +13,29 @@
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EC1C24?style=for-the-badge&logo=delphi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Delphi](https://img.shields.io/badge/Delphi-0D1117?style=for-the-badge&logo=delphi&logoColor=E62E2D)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-**Databases**
+**Data & APIs**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4FA3DB)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00AEEF)
+![REST](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=05C3A9)
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B)
+![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 
-**APIs & Tooling**
+**Tooling**
 
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
 
 ## Featured Projects
 
@@ -57,18 +53,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=UrielJaloto&disable_animations=true&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=A855F7" alt="streak" />
 
 </div>
-
-## Currently
-
-- Finishing **surgical-rar-recovery** (candidate generator and resumable state)
-- Going deeper into SQL tuning and system design
 
 ## Connect
 
