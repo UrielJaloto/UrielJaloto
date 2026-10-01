@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:A855F7&height=180&section=header&text=Uriel%20Jaloto&fontColor=ffffff&fontSize=46&desc=Backend%20Developer%20%7C%20Go%20%26%20Delphi%20%7C%20SQL&descSize=18&descAlignY=62" alt="Uriel Jaloto" />
+<h1>Uriel&nbsp;Jaloto</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=600&color=A855F7&center=true&vCenter=true&width=620&lines=High-volume+REST+APIs;SQL+performance+%26+indexing;Concurrency+in+Go;Clean+architecture" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=600&color=A855F7&center=true&vCenter=true&width=640&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="typing" />
 
 <br/>
 
