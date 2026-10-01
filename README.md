@@ -57,7 +57,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UrielJaloto&show_icons=true&disable_animations=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
 
 <br/>
