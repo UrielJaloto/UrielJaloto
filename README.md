@@ -39,21 +39,23 @@
 
 ## Featured Projects
 
-### [surgical-rar-recovery](https://github.com/UrielJaloto/surgical-rar-recovery) · Go · work in progress
-> Recovers the password of a RAR5 archive you own when you remember part of it. Parses the RAR5 binary headers directly to read the PBKDF2 parameters and spreads the work across all CPU cores with goroutines. Standard library only.
+<div align="center">
 
-`Go` `Concurrency` `Cryptography` `Clean Architecture`
+<a href="https://github.com/UrielJaloto/surgical-rar-recovery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=UrielJaloto&repo=surgical-rar-recovery&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="surgical-rar-recovery" /></a>
+<a href="https://github.com/UrielJaloto/music-genre-fetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=UrielJaloto&repo=music-genre-fetcher&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="music-genre-fetcher" /></a>
 
-### [music-genre-fetcher](https://github.com/UrielJaloto/music-genre-fetcher) · Go
-> CLI that fills missing genres in a local music library using the Last.fm API, with a concurrent worker pool, retry with backoff and JSON/CSV/TXT export.
-
-`Go` `Worker Pool` `Last.fm API` `SOLID`
+</div>
 
 ## GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/github-snake.svg" alt="contribution snake" />
+</picture>
 
 </div>
 
