@@ -1,8 +1,35 @@
+<!-- ===================== ANIMATION OPTIONS (TEMPORARY) ===================== -->
+<!-- Escolha uma. Depois eu apago as outras e deixo só a escolhida. -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=760&height=55&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="Backend Developer · Go & Delphi · SQL" />
+**Option 1 — Fira Code (type & erase)**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt1" />
+
+**Option 2 — JetBrains Mono (lines stack / multiline)**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=760&height=140&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt2" />
+
+**Option 3 — Poppins (elegant sans)**
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt3" />
+
+**Option 4 — Montserrat (elegant sans)**
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt4" />
+
+**Option 5 — Source Code Pro (letter spacing)**
+
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=900&color=A855F7&letterSpacing=2px&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="opt5" />
+
+**Option 6 — IBM Plex Mono (type once, no loop)**
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&pause=900&color=A855F7&center=true&vCenter=true&repeat=false&width=760&height=50&lines=Backend+Developer+%7C+Go+%26+Delphi+%7C+High-volume+REST+APIs" alt="opt6" />
 
 </div>
+
+<!-- =================== END ANIMATION OPTIONS (TEMPORARY) =================== -->
 
 ## About
 
@@ -19,12 +46,22 @@
 
 ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Delphi](https://img.shields.io/badge/Delphi-0D1117?style=for-the-badge&logo=delphi&logoColor=E62E2D)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-**Data & APIs**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4FA3DB)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00AEEF)
+![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+
+**Messaging**
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+
+**APIs**
+
 ![REST](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=05C3A9)
 ![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FB015B)
 ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=85EA2D)
@@ -49,15 +86,9 @@
 
 `Go` `Worker Pool` `Last.fm API` `SOLID`
 
-## GitHub Analytics
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=UrielJaloto&disable_animations=true&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=A855F7" alt="streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
 
 </div>
 
