@@ -8,7 +8,7 @@
 
 - Backend developer on a high-volume telecom system (dialer / contact center) at **Argus**
 - Information Systems student at **UFSC**, Florianópolis
-- REST APIs in **Delphi** at work, side projects in **Go**
+- REST APIs in **Go** and **Delphi**
 - Focus on SQL performance, concurrency and clean architecture
 
 ## Tech Stack
@@ -53,8 +53,8 @@
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/github-snake.svg" alt="contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/contributions-dark.svg" />
+  <img src="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/contributions-light.svg" alt="contributions" />
 </picture>
 
 </div>
