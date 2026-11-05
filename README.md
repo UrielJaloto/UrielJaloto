@@ -1,5 +1,8 @@
-<h1 align="center">Uriel Jaloto</h1>
-<p align="center"><b>Backend Developer</b> · Go &amp; Delphi · SQL · High-volume REST APIs</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=900&color=A855F7&letterSpacing=2px&center=true&vCenter=true&width=760&height=50&lines=Backend+Developer;Go+%26+Delphi+%7C+SQL;High-volume+REST+APIs;Concurrency+%26+clean+architecture" alt="Backend Developer" />
+
+</div>
 
 ## About
 
@@ -36,14 +39,18 @@
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [**music-ops**](https://github.com/UrielJaloto/music-ops) | Windows CLI in Go that turns a folder of downloaded music into library-ready `.m4a` files: AAC conversion, clean titles, genres from Last.fm and a local LLM, duplicate skipping and a report. |
-| [**surgical-rar-recovery**](https://github.com/UrielJaloto/surgical-rar-recovery) | Go CLI that recovers RAR5 passwords when part of it is known. Parses RAR5 headers, goroutine concurrency, standard library only. |
+<div align="center">
 
-## Contributions
+<a href="https://github.com/UrielJaloto/surgical-rar-recovery"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=surgical-rar-recovery&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="surgical-rar-recovery" /></a>
+<a href="https://github.com/UrielJaloto/music-ops"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=music-ops&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="music-ops" /></a>
+
+</div>
+
+## GitHub Analytics
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/github-snake-dark.svg" />
