@@ -6,7 +6,7 @@
 
 ## About
 
-- Backend developer on a high-volume telecom system (dialer / contact center) at **Argus**
+- Backend developer on a high-volume telecom system (dialer / contact center)
 - Information Systems student at **UFSC**, Florianópolis
 - REST APIs in **Go** and **Delphi**
 - Focus on SQL performance, concurrency and clean architecture
