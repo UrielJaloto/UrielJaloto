@@ -41,6 +41,7 @@
 
 <div align="center">
 
+<a href="https://github.com/UrielJaloto/paygo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=paygo&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="paygo" /></a>
 <a href="https://github.com/UrielJaloto/surgical-rar-recovery"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=surgical-rar-recovery&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="surgical-rar-recovery" /></a>
 <a href="https://github.com/UrielJaloto/music-ops"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=music-ops&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="music-ops" /></a>
 
