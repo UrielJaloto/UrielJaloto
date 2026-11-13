@@ -3,7 +3,7 @@ import datetime, json, os, sys, urllib.request
 QUERY = """query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount contributionLevel}}}}}}"""
 LEVELS = ["NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE"]
 THEMES = {
-    "dark": {"cells": ["#161b22", "#5b21b6", "#7c3aed", "#a855f7", "#d8b4fe"], "text": "#c9d1d9", "muted": "#8b949e"},
+    "dark": {"cells": ["#161b22", "#4a1d80", "#6b21a8", "#8a2be2", "#a855f7"], "text": "#c9d1d9", "muted": "#8b949e"},
     "light": {"cells": ["#ebedf0", "#e9d5ff", "#c084fc", "#a855f7", "#7e22ce"], "text": "#24292f", "muted": "#57606a"},
 }
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
