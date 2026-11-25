@@ -39,11 +39,13 @@
 
 ## Featured Projects
 
-| Project | What it is |
-|---|---|
-| [**paygo**](https://github.com/UrielJaloto/paygo) | Production-grade digital wallet and double-entry payments ledger in Go |
-| [**surgical-rar-recovery**](https://github.com/UrielJaloto/surgical-rar-recovery) | Go CLI that recovers RAR5 passwords when part of it is known, with goroutine concurrency and standard library only |
-| [**music-ops**](https://github.com/UrielJaloto/music-ops) | Go CLI that turns downloaded music into a clean, tagged .m4a library |
+<div align="center">
+
+<a href="https://github.com/UrielJaloto/paygo"><img src="assets/paygo.svg" alt="paygo" /></a>
+<a href="https://github.com/UrielJaloto/surgical-rar-recovery"><img src="assets/surgical-rar-recovery.svg" alt="surgical-rar-recovery" /></a>
+<a href="https://github.com/UrielJaloto/music-ops"><img src="assets/music-ops.svg" alt="music-ops" /></a>
+
+</div>
 
 ## GitHub Analytics
 
