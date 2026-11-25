@@ -39,19 +39,15 @@
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/UrielJaloto/paygo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=paygo&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="paygo" /></a>
-<a href="https://github.com/UrielJaloto/surgical-rar-recovery"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=surgical-rar-recovery&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="surgical-rar-recovery" /></a>
-<a href="https://github.com/UrielJaloto/music-ops"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UrielJaloto&repo=music-ops&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&border_color=30363D" alt="music-ops" /></a>
-
-</div>
+| Project | What it is |
+|---|---|
+| [**paygo**](https://github.com/UrielJaloto/paygo) | Production-grade digital wallet and double-entry payments ledger in Go |
+| [**surgical-rar-recovery**](https://github.com/UrielJaloto/surgical-rar-recovery) | Go CLI that recovers RAR5 passwords when part of it is known, with goroutine concurrency and standard library only |
+| [**music-ops**](https://github.com/UrielJaloto/music-ops) | Go CLI that turns downloaded music into a clean, tagged .m4a library |
 
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UrielJaloto&disable_animations=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="top langs" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrielJaloto/UrielJaloto/output/contributions-dark.svg" />
